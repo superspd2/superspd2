@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @superspd2
+- 👋 Hi, I’m Caleb Register.
 - 👀 I’m interested in games, computers, coding.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on nothing at the moment.
